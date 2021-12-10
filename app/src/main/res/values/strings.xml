@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinalWork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="picture_1">Picture 1</string>
+    <string name="gallery_of_flowers">Gallery of flowers</string>
+    <string name="put">put</string>
+    <string name="put2">put</string>
+    <string name="picture_2">Picture 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_favorite_pictures">My favorite pictures</string>
+    <string name="send">send</string>
+    <string name="gallery">Gallery</string>
+    <string name="favorite">Favorite</string>
+</resources>
